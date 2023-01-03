@@ -1,1 +1,1 @@
-yo yo 
+A generic web page to be used with webapps in azure/aws
